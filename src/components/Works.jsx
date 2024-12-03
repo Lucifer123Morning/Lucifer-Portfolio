@@ -1,12 +1,12 @@
 import React from "react";
-import Tilt from "react-tilt";
+import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
-import { styles } from "../styles";
-import { github } from "../assets";
-import { SectionWrapper } from "../hoc";
-import { projects } from "../constants";
-import { fadeIn, textVariant } from "../utils/motion";
+import { styles } from "../styles.js";
+import { github } from "../assets/index.js";
+import { SectionWrapper } from "../hoc/index.js";
+import { projects } from "../constants/index.js";
+import { fadeIn, textVariant } from "../utils/motion.js";
 
 const ProjectCard = ({
   index,
