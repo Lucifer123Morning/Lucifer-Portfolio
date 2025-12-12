@@ -1,9 +1,35 @@
-#🚀 Personal Portfolio — Lucifer | JavaScript Mastery
+🚀 Lucifer | JavaScript Mastery Portfolio
+📝 Motivation
 
-This repository contains the source code for my personal portfolio—a stylish, modern, and animated website built using Next.js, Tailwind CSS, and Framer Motion.
-The site was created to showcase my skills, projects, and professional style as a web developer.
-🛠️ Technologies Used
-Frontend
+Я создал этот проект для демонстрации своих навыков как JavaScript разработчика и создания персонального бренда в интернете. Сайт позволяет показать проекты, стиль и уровень владения современными веб-технологиями.
+
+⚡ Quick Start
+1. Клонируем репозиторий
+git clone https://github.com/Lucifer123Morning/portfolio.git
+cd portfolio
+
+2. Устанавливаем зависимости
+npm install
+
+3. Запускаем dev-сервер
+npm run dev
+
+
+Сайт будет доступен по адресу:
+
+http://localhost:3000
+
+🖥️ Usage
+
+Просмотр моих проектов и навыков
+
+Контакт со мной через форму или email
+
+Анимации и 3D-сцена рабочего стола для эффекта «WOW»
+
+Подходит как базовый шаблон для портфолио-разработчика
+
+🛠️ Technologies
 
 Next.js 14 (App Router)
 
@@ -11,16 +37,35 @@ React
 
 Tailwind CSS
 
-Framer Motion — animations
+Framer Motion — анимации
 
-React Icons / Lucide
-
-Possible integration: Three.js / R3F (3D scene)
-
-Tools
+Three.js / React Three Fiber — 3D-сцена
 
 Node.js 18+
 
-Vercel — deployment
+Vercel — деплой
 
-VS Code — development
+🤝 Contributing
+Clone the repo
+git clone https://github.com/Lucifer123Morning/portfolio.git
+cd portfolio
+
+Build the project
+npm run build
+
+Run tests (если есть)
+npm run test
+
+Submit a pull request
+
+Если вы хотите внести изменения, пожалуйста, fork репозиторий и откройте pull request в ветку main.
+
+📬 Contact
+
+GitHub: https://github.com/Lucifer123Morning
+
+Email: listopadov2744@gmail.com
+
+🖤 License
+
+Проект открыт для изучения и использования в образовательных целях.
