@@ -1,7 +1,9 @@
 #🚀 Lucifer | JavaScript Mastery Portfolio
 📝 Motivation
 
-Я создал этот проект для демонстрации своих навыков как JavaScript разработчика и создания персонального бренда в интернете. Сайт позволяет показать проекты, стиль и уровень владения современными веб-технологиями.
+This is a personal portfolio created to showcase my skills as a JavaScript developer and build a modern tech brand. The project combines animations, smooth transitions, and a 3D desktop scene, creating an expressive visual style and a "wow" effect.
+
+The website is built using Next.js 14, React, Tailwind CSS, Framer Motion, and Three.js / React Three Fiber, ensuring high performance and dynamism. The architecture is focused on cleanliness, scalability, and maintainability, and the finished product is deployed on Vercel and fully adapted for real-world production.
 
 ##⚡ Quick Start
 1. Клонируем репозиторий
