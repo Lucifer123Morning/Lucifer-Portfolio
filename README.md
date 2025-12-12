@@ -1,8 +1,27 @@
-My personal portfolio website, created to showcase my skills, projects, and experience in web development. The site uses a modern tech stack, and the visual style is maintained in a dark aesthetic with purple accents and 3D elements.
-🛠️ Используемые технологии
-Next.js 14
+🚀 Personal Portfolio — Lucifer | JavaScript Mastery
+📌 Purpose
+
+This repository contains the source code for my personal portfolio—a stylish, modern, and animated website built using Next.js, Tailwind CSS, and Framer Motion.
+The site was created to showcase my skills, projects, and professional style as a web developer.
+🛠️ Technologies Used
+Frontend
+
+Next.js 14 (App Router)
+
 React
+
 Tailwind CSS
-Framer Motion (анимации)
-Three.js / React Three Fiber (3D-сцена, если используется)
-Vercel Deployment
+
+Framer Motion — animations
+
+React Icons / Lucide
+
+Possible integration: Three.js / R3F (3D scene)
+
+Tools
+
+Node.js 18+
+
+Vercel — deployment
+
+VS Code — development
