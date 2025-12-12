@@ -1,4 +1,4 @@
-🚀 Personal Portfolio — Lucifer | JavaScript Mastery
+#🚀 Personal Portfolio — Lucifer | JavaScript Mastery
 
 This repository contains the source code for my personal portfolio—a stylish, modern, and animated website built using Next.js, Tailwind CSS, and Framer Motion.
 The site was created to showcase my skills, projects, and professional style as a web developer.
